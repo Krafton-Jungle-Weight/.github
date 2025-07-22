@@ -9,17 +9,23 @@
 
 ## 목차
 
-1. 프로젝트 개요
-2. 서비스 소개
-3. 포스터
+1. [프로젝트 개요](#프로젝트-개요)
+2. [서비스 소개](#서비스-소개)
+3. [포스터](#포스터)
 
 
 ## 프로젝트 개요
 
 #### 개발 기간
-2025-06-19 ~ 2025-07-26
+2025년 06월 19일 ~ 2025년 07월 26일
+
 
 #### 팀원
+
+## Team
+|<img src="https://avatars.githubusercontent.com/u/186130931?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/4592459?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/103018497?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/201695983?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/176196654?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|김태용<br/>[@prkty](https://github.com/prkty)|[@jkh1447](https://github.com/jkh1447)|MyeongSeok98<br/>[@MyeongSeok98](https://github.com/MyeongSeok98)|JIN HYUCK KIM<br/>[@hyuckino](https://github.com/hyuckino)|[@kimyounhoex1](https://github.com/kimyounhoex1)|
 
 
 #### 기술스택
