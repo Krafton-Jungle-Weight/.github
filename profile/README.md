@@ -40,6 +40,7 @@
 
 ## 서비스 소개
 
+[![동영상 썸네일](https://img.youtube.com/vi/lQ6dAhKvjFM/0.jpg)](https://youtu.be/lQ6dAhKvjFM)
 
 
 ## 포스터
