@@ -43,3 +43,7 @@
 
 
 ## 포스터
+
+<img width="7724" height="10933" alt="그림2" src="https://github.com/user-attachments/assets/e0af5e07-4126-43fe-b910-115e4d291a3a" />
+
+
