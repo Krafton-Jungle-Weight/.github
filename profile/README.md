@@ -3,7 +3,7 @@
   <img width="600" alt="code-planner-logo" src="https://github.com/user-attachments/assets/4650f324-cbd6-46c7-84e8-fb7b5385abd1" />
 </p>
 
-<h2 align="center">Code Planner</h2>
+
 
 ## 📌 목차
 
@@ -22,7 +22,7 @@
 
 |<img src="https://avatars.githubusercontent.com/u/186130931?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/4592459?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/103018497?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/201695983?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/176196654?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|김태용<br/>[@prkty](https://github.com/prkty)|[@jkh1447](https://github.com/jkh1447)|MyeongSeok98<br/>[@MyeongSeok98](https://github.com/MyeongSeok98)|JIN HYUCK KIM<br/>[@hyuckino](https://github.com/hyuckino)|[@kimyounhoex1](https://github.com/kimyounhoex1)|
+|김태용<br/>[@prkty](https://github.com/prkty)|정권호<br/>[@jkh1447](https://github.com/jkh1447)|김명석<br/>[@MyeongSeok98](https://github.com/MyeongSeok98)|김진혁<br/>[@hyuckino](https://github.com/hyuckino)|김윤호<br/>[@kimyounhoex1](https://github.com/kimyounhoex1)|
 
 ### 🛠 기술 스택
 
