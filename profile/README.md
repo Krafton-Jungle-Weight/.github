@@ -40,23 +40,10 @@
 
 [![동영상 썸네일](https://img.youtube.com/vi/lQ6dAhKvjFM/0.jpg)](https://youtu.be/lQ6dAhKvjFM)
 
-### 📝 요약
-<img width="1918" height="1036" alt="요약" src="https://github.com/user-attachments/assets/2d1cf048-1085-4208-b86f-06d926664750" />
 
-### 🗂 칸반보드
-<img width="1918" height="1035" alt="보드" src="https://github.com/user-attachments/assets/4d5a8674-2b20-459b-9e65-de2defcb651b" />
 
-### 📆 타임라인
-<img width="1918" height="1037" alt="타임라인" src="https://github.com/user-attachments/assets/7bfec53e-a2e7-4de5-a3b5-30d5e8ba0edd" />
+<img width="3944" height="1421" alt="리드미그림" src="https://github.com/user-attachments/assets/a18d5299-8a35-44d3-9a7e-a45bfb5753c7" />
 
-### 🤖 AI 이슈 자동 생성
-<img width="1918" height="1037" alt="AI-issue-generator" src="https://github.com/user-attachments/assets/adf472d7-9e07-4732-89cb-261df638a3e9" />
-
-### 🧠 Summary AI
-<img width="1919" height="1037" alt="summaryAI" src="https://github.com/user-attachments/assets/3e1dd56e-6185-4134-af69-2e4b63978226" />
-
-### 🧪 코드 품질 검사
-<img width="1917" height="1033" alt="코드검사" src="https://github.com/user-attachments/assets/adfd0108-2e65-4c28-b9ae-dfd274cf12d7" />
 
 ---
 
