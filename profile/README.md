@@ -42,7 +42,8 @@
 
 
 
-<img width="3944" height="1421" alt="리드미그림" src="https://github.com/user-attachments/assets/a18d5299-8a35-44d3-9a7e-a45bfb5753c7" />
+<img width="3637" height="2943" alt="readme2" src="https://github.com/user-attachments/assets/16a6e9ba-0d51-4aa4-91b5-57cfc30c8ae7" />
+
 
 
 ---
